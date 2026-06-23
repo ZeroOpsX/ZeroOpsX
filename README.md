@@ -1,4 +1,4 @@
-# ☣️ [ZeroOpsX] // Advanced Adversary Simulation & Kernel Researcher
+# ☣️ [Zero] // Advanced Adversary Simulation & Kernel Researcher
 
 > **"Security is an illusion when the foundation is built on trusted lies. I break the trust."**
 
