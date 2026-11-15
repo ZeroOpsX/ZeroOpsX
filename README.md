@@ -66,21 +66,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroOpsX&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroOpsX&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ZeroOpsX&theme=transparent&hide_border=true&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c)
 
 </div>
 
-## `05 // CONTRIBUTION ACTIVITY`
 
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeroOpsX&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true)
-
-</div>
 
 ---
 
